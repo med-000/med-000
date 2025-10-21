@@ -6,9 +6,6 @@
 
 ### 
 <h1 align="left">TechStack</h1>
-
-###
-
 <h2 align="left">Skill</h2>
 
 ###
