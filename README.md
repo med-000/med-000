@@ -49,11 +49,11 @@ githubaction,kali,kuvernetes,vim,postgres
 
 <div align="left">
 <a href="https://x.com/med_rk000" target="_blank">
-  <img src="https://raw.githubusercontent.com/med-000/med/main/assets/x_logo.png" width="40" height="40" alt=" logo"  />
+  <img src="https://raw.githubusercontent.com/med-000/med-000/main/assets/x_logo.png" width="40" height="40" alt=" logo"  />
 </a>
 
 <a href="href=med.rk000@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/med-000/med/main/assets/gmail_logo.png"
+  <img src="https://raw.githubusercontent.com/med-000/med-000/main/assets/gmail_logo.png"
   width="40" height="40" alt=" logo"  />
 </a>
 </div>
