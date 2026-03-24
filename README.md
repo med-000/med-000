@@ -4,18 +4,19 @@
 
 <p align="left">I am Riki Maeda (med).</p>
 
-### 
+###
+
 <h1 align="left">TechStack</h1>
 <h2 align="left">Skill</h2>
 
 ###
 
 <h3 align="left">language:</h3>
-<img src="https://skillicons.dev/icons?i=js,java,python,html,css,c" />
+<img src="https://skillicons.dev/icons?i=go,ts,js,java,python,html,css,c" />
 <h3 align="left">framework & library:</h3>
-<img src="https://skillicons.dev/icons?i=react,django,vite" />
+<img src="https://skillicons.dev/icons?i=next,react,django,vite,nodejs,tailwind" />
 <h3 align="left">etc:</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,ubuntu,vscode" />
+<img src="https://skillicons.dev/icons?i=redis,docker,nginx,linux,ubuntu,vscode" />
 
 <h1 align="left">About Me</h1>
 
@@ -37,7 +38,7 @@
 ###
 
 <h4 align="left">language:</h3>
-Go,C#,C++,ruby,swift,ts,rust
+C#,C++,ruby,swift,ts,rust
 <h4 align="left">framework & library:</h3>
 flask,rails,node.js,next.js
 <h4 align="left">etc:</h3>
