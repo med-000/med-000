@@ -2,7 +2,7 @@
 
 <h3>Hi there</h3>
 
-<h1>med-000</h1>
+<h1>前の田んぼ</h1>
 
 <p>
   Riki Maeda / med<br />
