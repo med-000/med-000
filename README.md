@@ -100,9 +100,3 @@
 <br />
 
 <div align="center">
-
-<h2>WakaTime</h2>
-
-<img src="https://wakatime.com/share/@med/f8ab336c-8d1f-4ed2-bc98-7f1fc6f4381b.svg" alt="WakaTime coding activity" />
-
-</div>
