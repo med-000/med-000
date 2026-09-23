@@ -2,6 +2,10 @@
 <title id="title">Hi! I'm MED-000 terminal / Riki Maeda</title>
 <desc id="desc">Hi! I'm MED-000 rendered in shaded block characters, followed by the original ASCII profile and GitHub activity with an introduction, tech stack, and contacts in one terminal window.</desc>
 <defs>
+  <radialGradient id="stardust-haze">
+    <stop stop-color="#8172b5" stop-opacity=".055"/>
+    <stop offset="1" stop-color="#8172b5" stop-opacity="0"/>
+  </radialGradient>
   <clipPath id="intro-typing-clip" clipPathUnits="userSpaceOnUse">
     <rect id="intro-reveal" x="32" y="90" width="1100" height="132"/>
   </clipPath>
@@ -19,6 +23,36 @@
   }
 </style>
 <rect width="1278" height="1104" fill="#0d1117"/>
+<g id="terminal-stardust" aria-hidden="true" pointer-events="none">
+<ellipse cx="1105" cy="150" rx="235" ry="220" fill="url(#stardust-haze)"/>
+<ellipse cx="785" cy="784" rx="310" ry="210" fill="url(#stardust-haze)"/>
+<circle cx="1170" cy="42" r="1.1" fill="#b9b4d4" opacity="0.3"/>
+<circle cx="1118" cy="175" r="0.8" fill="#b9b4d4" opacity="0.25"/>
+<circle cx="1220" cy="230" r="1" fill="#b9b4d4" opacity="0.22"/>
+<circle cx="855" cy="218" r="0.9" fill="#b9b4d4" opacity="0.2"/>
+<circle cx="612" cy="232" r="1" fill="#b9b4d4" opacity="0.24"/>
+<circle cx="394" cy="245" r="0.7" fill="#b9b4d4" opacity="0.25"/>
+<circle cx="155" cy="259" r="0.9" fill="#b9b4d4" opacity="0.2"/>
+<circle cx="42" cy="290" r="0.8" fill="#b9b4d4" opacity="0.25"/>
+<circle cx="655" cy="385" r="1" fill="#b9b4d4" opacity="0.22"/>
+<circle cx="1238" cy="457" r="0.8" fill="#b9b4d4" opacity="0.3"/>
+<circle cx="574" cy="535" r="0.8" fill="#b9b4d4" opacity="0.2"/>
+<circle cx="94" cy="631" r="1" fill="#b9b4d4" opacity="0.24"/>
+<circle cx="440" cy="701" r="0.8" fill="#b9b4d4" opacity="0.25"/>
+<circle cx="788" cy="735" r="1.1" fill="#b9b4d4" opacity="0.26"/>
+<circle cx="1045" cy="780" r="0.8" fill="#b9b4d4" opacity="0.28"/>
+<circle cx="1210" cy="829" r="1" fill="#b9b4d4" opacity="0.22"/>
+<circle cx="661" cy="857" r="0.8" fill="#b9b4d4" opacity="0.25"/>
+<circle cx="216" cy="845" r="0.9" fill="#b9b4d4" opacity="0.2"/>
+<circle cx="405" cy="1073" r="0.8" fill="#b9b4d4" opacity="0.22"/>
+<circle cx="907" cy="1080" r="1" fill="#b9b4d4" opacity="0.28"/>
+<circle cx="1235" cy="1001" r="0.8" fill="#b9b4d4" opacity="0.25"/>
+<path d="M1206 125Q1206 128 1209 128Q1206 128 1206 131Q1206 128 1203 128Q1206 128 1206 125Z" fill="#c5bfdc" opacity=".32"/>
+<path d="M511 261Q511 264 514 264Q511 264 511 267Q511 264 508 264Q511 264 511 261Z" fill="#c5bfdc" opacity=".32"/>
+<path d="M628 664Q628 667 631 667Q628 667 628 670Q628 667 625 667Q628 667 628 664Z" fill="#c5bfdc" opacity=".32"/>
+<path d="M1134 724Q1134 727 1137 727Q1134 727 1134 730Q1134 727 1131 727Q1134 727 1134 724Z" fill="#c5bfdc" opacity=".32"/>
+<path d="M738 1054Q738 1057 741 1057Q738 1057 738 1060Q738 1057 735 1057Q738 1057 738 1054Z" fill="#c5bfdc" opacity=".32"/>
+</g>
 <g transform="translate(0 -42)">
 <g font-family="Menlo, 'DejaVu Sans Mono', monospace" font-size="16">
 <text x="32" y="79" fill="#8b949e"><tspan fill="#b4a7d6">med@github</tspan> ~ $ whoami</text>
