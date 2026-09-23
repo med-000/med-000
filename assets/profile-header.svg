@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1278" height="360" viewBox="0 0 1278 360" role="img" aria-labelledby="title desc">
+  <title id="title">MED-000 — Riki Maeda</title>
+  <desc id="desc">A terminal-inspired pixel wordmark with copper outlines, distant stars and a quiet orbital motif.</desc>
+  <defs>
+    <radialGradient id="space"><stop stop-color="#24243d"/><stop offset="1" stop-color="#0d1117"/></radialGradient>
+    <path id="wordmark" d="M48 103h17v17h-17z M116 103h17v17h-17z M48 120h17v17h-17z M65 120h17v17h-17z M99 120h17v17h-17z M116 120h17v17h-17z M48 137h17v17h-17z M82 137h17v17h-17z M116 137h17v17h-17z M48 154h17v17h-17z M82 154h17v17h-17z M116 154h17v17h-17z M48 171h17v17h-17z M116 171h17v17h-17z M48 188h17v17h-17z M116 188h17v17h-17z M48 205h17v17h-17z M116 205h17v17h-17z M150 103h17v17h-17z M167 103h17v17h-17z M184 103h17v17h-17z M201 103h17v17h-17z M218 103h17v17h-17z M150 120h17v17h-17z M150 137h17v17h-17z M150 154h17v17h-17z M167 154h17v17h-17z M184 154h17v17h-17z M201 154h17v17h-17z M150 171h17v17h-17z M150 188h17v17h-17z M150 205h17v17h-17z M167 205h17v17h-17z M184 205h17v17h-17z M201 205h17v17h-17z M218 205h17v17h-17z M252 103h17v17h-17z M269 103h17v17h-17z M286 103h17v17h-17z M303 103h17v17h-17z M252 120h17v17h-17z M320 120h17v17h-17z M252 137h17v17h-17z M320 137h17v17h-17z M252 154h17v17h-17z M320 154h17v17h-17z M252 171h17v17h-17z M320 171h17v17h-17z M252 188h17v17h-17z M320 188h17v17h-17z M252 205h17v17h-17z M269 205h17v17h-17z M286 205h17v17h-17z M303 205h17v17h-17z M354 154h17v17h-17z M371 154h17v17h-17z M388 154h17v17h-17z M405 154h17v17h-17z M422 154h17v17h-17z M473 103h17v17h-17z M490 103h17v17h-17z M507 103h17v17h-17z M456 120h17v17h-17z M524 120h17v17h-17z M456 137h17v17h-17z M507 137h17v17h-17z M524 137h17v17h-17z M456 154h17v17h-17z M490 154h17v17h-17z M524 154h17v17h-17z M456 171h17v17h-17z M473 171h17v17h-17z M524 171h17v17h-17z M456 188h17v17h-17z M524 188h17v17h-17z M473 205h17v17h-17z M490 205h17v17h-17z M507 205h17v17h-17z M575 103h17v17h-17z M592 103h17v17h-17z M609 103h17v17h-17z M558 120h17v17h-17z M626 120h17v17h-17z M558 137h17v17h-17z M609 137h17v17h-17z M626 137h17v17h-17z M558 154h17v17h-17z M592 154h17v17h-17z M626 154h17v17h-17z M558 171h17v17h-17z M575 171h17v17h-17z M626 171h17v17h-17z M558 188h17v17h-17z M626 188h17v17h-17z M575 205h17v17h-17z M592 205h17v17h-17z M609 205h17v17h-17z M677 103h17v17h-17z M694 103h17v17h-17z M711 103h17v17h-17z M660 120h17v17h-17z M728 120h17v17h-17z M660 137h17v17h-17z M711 137h17v17h-17z M728 137h17v17h-17z M660 154h17v17h-17z M694 154h17v17h-17z M728 154h17v17h-17z M660 171h17v17h-17z M677 171h17v17h-17z M728 171h17v17h-17z M660 188h17v17h-17z M728 188h17v17h-17z M677 205h17v17h-17z M694 205h17v17h-17z M711 205h17v17h-17z"/>
+  </defs>
+  <rect x=".5" y=".5" width="1277" height="359" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <ellipse cx="1050" cy="175" rx="225" ry="174" fill="url(#space)"/>
+  <g fill="none" stroke="#737296" stroke-width="1" opacity=".38">
+    <ellipse cx="1053" cy="176" rx="144" ry="53" transform="rotate(-32 1053 176)"/>
+    <circle cx="1053" cy="176" r="85"/>
+    <path d="M1053 79v194M956 176h194" opacity=".45"/>
+  </g>
+  <g fill="#b9b7d6">
+    <circle cx="938" cy="73" r="1.5"/><circle cx="1188" cy="108" r="1.5"/>
+    <circle cx="1148" cy="284" r="1"/><circle cx="863" cy="242" r="1"/>
+    <circle cx="995" cy="295" r="1.3"/><circle cx="1156" cy="111" r="3" fill="#d48c73"/>
+    <path d="M1064 45h8m-4-4v8" fill="none" stroke="#b9b7d6"/>
+  </g>
+  <rect x="48" y="31" width="304" height="32" rx="4" fill="none" stroke="#76584e"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="63" y="52" fill="#d5a18a" font-size="14">* Hello, world. / med-000</text>
+    <g fill="none" stroke="#a76c59" stroke-width="1" stroke-linejoin="miter">
+      <use href="#wordmark" transform="translate(10 10)" opacity=".45"/>
+      <use href="#wordmark" transform="translate(5 5)" opacity=".8"/>
+    </g>
+    <use href="#wordmark" fill="#d58d72"/>
+    <text x="48" y="276" fill="#e6edf3" font-size="19">Riki Maeda / med</text>
+    <text x="48" y="310" fill="#9da7b5" font-size="15">Build small, learn deeply, keep improving.</text>
+    <text x="1053" y="316" text-anchor="middle" fill="#85859c" font-size="11" letter-spacing="2">EXPLORING SYSTEMS</text>
+  </g>
+</svg>
